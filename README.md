@@ -15,3 +15,14 @@ This mod adds a balanced, high-fidelity smelting recipe to the game:
 - Output: 1x Cooked Steak
 
 - Bonus: 5.0 XP per item (The ultimate early-game XP farm!)
+
+## 🚀 GitHub Navigation
+
+| Loader | Version | Link |
+| :--- | :--- | :--- |
+| **Fabric** | 1.21.8 | [You're already here](https://github.com/MagentaCoding/MagentaFood/tree/Fabric-1.21.8) |
+| **NeoForge** | 1.21.8 | [Explore](https://github.com/MagentaCoding/MagentaFood/tree/NeoForge-1.21.8) |
+| | 1.21.4 | [Explore](https://github.com/MagentaCoding/MagentaFood/tree/NeoForge-1.21.4) |
+| | 1.20.6 | [Explore](https://github.com/MagentaCoding/MagentaFood/tree/NeoForge-1.20.6) |
+| | 1.20.4 | [Explore](https://github.com/MagentaCoding/MagentaFood/tree/NeoForge-1.20.4) |
+| **Forge** | 1.20.1 | [Explore](https://github.com/MagentaCoding/MagentaFood/tree/NeoForge-1.20.1) |
