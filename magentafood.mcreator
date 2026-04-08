@@ -1,0 +1,80 @@
+{
+  "mod_elements": [
+    {
+      "name": "Rfts",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rfts",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magentafood/recipe/rfts.json",
+          "src/main/resources/data/magentafood/advancement/recipes/rfts.json"
+        ]
+      }
+    },
+    {
+      "name": "InstalledMod",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "installed_mod",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magentafood/advancement/installed_mod.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "advancements.installed_mod.descr": "You successfully downloaded the mod and created a world with it",
+      "advancements.installed_mod.title": "Installed Mod"
+    },
+    "de_de": {
+      "advancements.installed_mod.descr": "MODのダウンロードに成功し、それを使ってワールドを作成しました",
+      "advancements.installed_mod.title": "MODがインストールされました"
+    },
+    "ja_jp": {
+      "advancements.installed_mod.descr": "Du hast die Mod erfolgreich heruntergeladen und damit eine Welt erstellt",
+      "advancements.installed_mod.title": "Mod installiert"
+    },
+    "zh_cn": {
+      "advancements.installed_mod.descr": "You succesfully downloaded the mod and created a world with it",
+      "advancements.installed_mod.title": "Installed Mod"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/java/de/magentamods/magentafood/MagentafoodMod.java",
+      "src/main/resources/pack.mcmeta"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "magentafood",
+    "modName": "MagentaFood NeoForge 1.21.4",
+    "version": "1.1.0",
+    "description": "This description, tells you nothing, please test the mod yourself, thank you. - The Creator",
+    "author": "MagentaGaming / MagentaMods",
+    "websiteURL": "https://mods.magentaweb.org",
+    "license": "All Rights Reserved",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.4",
+    "credits": "Created by MagentaGaming/MagentaMods using MCreator",
+    "modElementsPackage": "de.magentamods.magentafood"
+  },
+  "mcreatorVersion": 202500345720
+}
