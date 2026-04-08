@@ -28,4 +28,4 @@ This mod adds a balanced, high-fidelity smelting recipe to the game:
 | | 1.21.4 | [Explore](https://github.com/MagentaCoding/MagentaFood/tree/NeoForge-1.21.4) |
 | | 1.20.6 | [Explore](https://github.com/MagentaCoding/MagentaFood/tree/NeoForge-1.20.6) |
 | | 1.20.4 | [Explore](https://github.com/MagentaCoding/MagentaFood/tree/NeoForge-1.20.4) |
-| **Forge** | 1.20.1 | [Explore](https://github.com/MagentaCoding/MagentaFood/tree/NeoForge-1.20.1) |
+| **Forge** | 1.20.1 | [Explore](https://github.com/MagentaCoding/MagentaFood/tree/Forge-1.20.1) |
