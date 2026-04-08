@@ -23,9 +23,8 @@
 hs_err_pid*
 replay_pid*
 
-# MCreator Files
-.mcreator/
-*.mcreator
-
-# Nobody need's the gradle folder
+# Git fuck you
 .gradle/
+build/
+run/
+.mcreator/
