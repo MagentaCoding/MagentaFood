@@ -1,0 +1,70 @@
+{
+  "mod_elements": [
+    {
+      "name": "Rfts",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rfts",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magentafood/recipe/rfts.json",
+          "src/main/resources/data/magentafood/advancement/recipes/rfts.json"
+        ]
+      }
+    },
+    {
+      "name": "InstalledMod",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "installed_mod",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magentafood/advancement/installed_mod.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "advancements.installed_mod.descr": "Du hast die Mod erfolgreich heruntergeladen und damit eine Welt erstellt",
+      "advancements.installed_mod.title": "Mod installiert"
+    },
+    "zh_cn": {
+      "advancements.installed_mod.descr": "Du hast die Mod erfolgreich heruntergeladen und damit eine Welt erstellt",
+      "advancements.installed_mod.title": "Mod installiert"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/de/magentamods/magentafood/MagentafoodMod.java",
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/resources/pack.mcmeta"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "magentafood",
+    "modName": "MagentaFood NeoForge 1.21.1",
+    "version": "1.0.0",
+    "author": "MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.1",
+    "modElementsPackage": "de.magentamods.magentafood"
+  },
+  "mcreatorVersion": 202500345720
+}

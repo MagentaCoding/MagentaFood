@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:cooked_beef"
+    },
+    "title": {
+      "translate": "advancements.installed_mod.title"
+    },
+    "description": {
+      "translate": "advancements.installed_mod.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "installed_mod_0": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "parent": "minecraft:adventure/adventuring_time"
+}
