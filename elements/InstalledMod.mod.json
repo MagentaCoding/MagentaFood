@@ -1,0 +1,26 @@
+{
+  "_fv": 79,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "已安装的模组",
+    "achievementDescription": "您已成功下载该模组，并使用它创建了一个世界",
+    "achievementIcon": {
+      "value": "Items.COOKED_BEEF"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [
+      "Rfts"
+    ],
+    "rewardXP": 0,
+    "achievementType": "task",
+    "parent": {
+      "value": "CUSTOM:InstalledMod"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"advancement_trigger\" deletable=\"false\" x=\"341\" y=\"59\"><next><block type=\"tick\"></block></next></block></xml>"
+  }
+}
