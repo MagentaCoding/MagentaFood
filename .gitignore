@@ -26,3 +26,6 @@ replay_pid*
 # MCreator Files
 .mcreator/
 *.mcreator
+
+# Nobody need's the gradle folder
+.gradle/
