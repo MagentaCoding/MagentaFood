@@ -1,8 +1,7 @@
 # MagentaFood
 Tired of wasting chests full of Rotten Flesh? Stop throwing your zombie loot away! MagentaFood is a professional-grade purification mod that turns biological waste into high-quality survival resources.
-
-## Important Information
-Pull Requests to help this mod are temporarly deactivated, thank you for your patience. If you have an feature request please create a [Issue Feature Request](https://github.com/MagentaCoding/MagentaFood/issues), thank you.
+> [!IMPORTANT]
+> Pull Requests are temporarily deactivated. If you have a feature request, please create an [Issue](https://github.com/MagentaCoding/MagentaFood/issues).
 
 ## MagentaFood Stats
 ![Downloads](https://img.shields.io/curseforge/dt/1488093?color=orange&style=for-the-badge&logo=curseforge)
