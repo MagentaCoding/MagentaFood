@@ -1,0 +1,46 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "MagentaFood Bedrock",
+    "uuid": "f563518f-e64d-3ceb-852f-9e2c890a22d1",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      50
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "data",
+      "uuid": "fd84d54c-029f-3ce7-aef3-fd4cd44a5ce9",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "85f3bf4a-1ebc-36fe-bf6f-c2482768481d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}

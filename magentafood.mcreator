@@ -1,0 +1,54 @@
+{
+  "mod_elements": [
+    {
+      "name": "Rtfs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rtfs",
+      "metadata": {
+        "files": [
+          "src/main/magentafood_behaviourpack/recipes/rtfs.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {}
+  },
+  "metadata": {
+    "files": [
+      "src/main/magentafood_resourcepack/sounds/sound_definitions.json",
+      "src/main/magentafood_behaviourpack/entities/player.json",
+      "src/main/magentafood_resourcepack/textures/item_texture.json",
+      "src/main/magentafood_behaviourpack/manifest.json",
+      "src/main/magentafood_resourcepack/blocks.json",
+      "src/main/magentafood_resourcepack/textures/terrain_texture.json",
+      "src/main/magentafood_resourcepack/manifest.json"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "magentafood",
+    "modName": "MagentaFood Bedrock",
+    "version": "1.0.0",
+    "author": "MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "addon-1.21.x",
+    "modElementsPackage": "net.mcreator.magentafood"
+  },
+  "mcreatorVersion": 202500345720
+}

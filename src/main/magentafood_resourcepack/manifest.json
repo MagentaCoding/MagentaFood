@@ -1,0 +1,36 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "MagentaFood Bedrock",
+    "uuid": "85f3bf4a-1ebc-36fe-bf6f-c2482768481d",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      50
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "resources",
+      "uuid": "d950269f-c4f2-3ef7-9c18-bbbe3e218acf",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}
