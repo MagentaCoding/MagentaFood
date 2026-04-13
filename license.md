@@ -11,4 +11,11 @@ Reuploading the mod under this license is not permitted on any other sites excep
 
 TO BE CLEAR: REUPLOADING IS NOT PERMITTED UNDER ANY CIRCUMSTANCES. VIOLATIONS MAY RESULT IN LEGAL CONSEQUENCES AND CLAIMS FOR DAMAGES.
 ## § 4 – Contractual penalty & expiry of the license
-Any violation of these license terms, in particular § 2 and § 3, will result in the immediate, automatic expiry of any license to use the software. Any further distribution or use of the software from this point onwards will be considered a copyright infringement.
+Any violation of these license terms, in particular § 2, § 3 and § 5, will result in the immediate, automatic expiry of any license to use the software. Any further distribution or use of the software from this point onwards will be considered a copyright infringement.
+## § 5 – Content Creation and Modpack Usage
+1. Attribution (CC BY Principle): Any public presentation of this mod (videos, streams, social media) requires clear and visible attribution to the author. This must include:
+    - The name of the author.
+    - A direct link to the official download source (CurseForge/Modrinth/GitHub).
+1. Transparency for Viewers: Content creators are prohibited from implying that features of this mod are "custom-made" or exclusive to their channel, unless they have written permission from the author. The mod must be presented as a publicly available software.
+1. Monetization: Commercial use in the form of video monetization is permitted ONLY if the attribution requirements in § 5.1 are fully met.
+1. Modpack Integration: Modpacks containing this mod must be public and free of charge. Integration into "Early Access" or "Supporter-only" modpacks (e.g., via Patreon) is strictly prohibited.
