@@ -5,7 +5,7 @@ Tired of wasting chests full of Rotten Flesh? Stop throwing your zombie loot awa
 
 ## MagentaFood Stats
 [![Downloads](https://img.shields.io/curseforge/dt/1488093?color=orange&style=for-the-badge&logo=curseforge)](https://www.curseforge.com/minecraft/mc-mods/magentafood)
-[![Modrinth Downloads](https://img.shields.io/modrinth/dt/magentafood?color=orange&style=for-the-badge&logo=curseforge)](https://modrinth.com/mod/magentafood)
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/magentafood?color=orange&style=for-the-badge&logo=modrinth)](https://modrinth.com/mod/magentafood)
 
 ## 🥩 The Purification Process
 This mod adds a balanced, high-fidelity smelting recipe to the game:
