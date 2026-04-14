@@ -9,6 +9,7 @@
 1. Violations of this prohibition will be prosecuted under civil law.
 ## § 3 – Reupload (RDB clause)
 Reuploading the mod under this license is not permitted on any other sites except those on which the mod was published by the team itself (e.g., GitHub, Modrinth, CurseForge). Re-uploading is not permitted on any site, especially those on the MLS blacklist. The MLS RDB can be found at mls.magentaweb.org/rdb.
+
 **TO BE CLEAR: REUPLOADING IS NOT PERMITTED UNDER ANY CIRCUMSTANCES. VIOLATIONS MAY RESULT IN LEGAL CONSEQUENCES AND CLAIMS FOR DAMAGES.**
 ## § 4 – Contractual penalty & expiry of the license
 Any violation of these license terms, in particular § 2, § 3 and § 5, will result in the immediate, automatic expiry of any license to use the software. Any further distribution or use of the software from this point onwards will be considered a copyright infringement.
