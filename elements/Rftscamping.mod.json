@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Campfire cooking",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "Items.ROTTEN_FLESH"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 5.0,
+    "cookingTime": 900,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "campfireCookingInputStack": {
+      "value": "Items.ROTTEN_FLESH"
+    },
+    "campfireCookingReturnStack": {
+      "value": "Items.COOKED_BEEF"
+    },
+    "name": "rftscamping",
+    "namespace": "mod"
+  }
+}

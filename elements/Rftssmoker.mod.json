@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smoking",
+    "recipeRetstackSize": 1,
+    "group": "rfts",
+    "unlockingItems": [
+      {
+        "value": "Items.ROTTEN_FLESH"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 5.0,
+    "cookingTime": 600,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smokingInputStack": {
+      "value": "Items.ROTTEN_FLESH"
+    },
+    "smokingReturnStack": {
+      "value": "Items.COOKED_BEEF"
+    },
+    "name": "rftssmoker",
+    "namespace": "mod"
+  }
+}

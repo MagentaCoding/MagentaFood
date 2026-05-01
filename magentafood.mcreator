@@ -1,0 +1,82 @@
+{
+  "mod_elements": [
+    {
+      "name": "Rfts",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rfts",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magentafood/recipe/rfts.json",
+          "src/main/resources/data/magentafood/advancement/recipes/rfts.json"
+        ]
+      }
+    },
+    {
+      "name": "Rftssmoker",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rftssmoker",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magentafood/advancement/recipes/rftssmoker.json",
+          "src/main/resources/data/magentafood/recipe/rftssmoker.json"
+        ]
+      }
+    },
+    {
+      "name": "Rftscamping",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rftscamping",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/magentafood/recipe/rftscamping.json",
+          "src/main/resources/data/magentafood/advancement/recipes/rftscamping.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {},
+    "zh_cn": {},
+    "de_de": {},
+    "ja_jp": {}
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/de/magentamods/magentafood/MagentafoodMod.java",
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/resources/pack.mcmeta"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "magentafood",
+    "modName": "MagentaFood NeoForge 1.21.1",
+    "version": "1.0.1",
+    "description": "Test the mod yourself, this desciption doesn\u0027t love you!",
+    "author": "MagentaGaming / MagentaMods",
+    "websiteURL": "https://mods.magentaweb.org",
+    "license": "All Rights Reserved",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.1",
+    "credits": "Created by MagentaGaming/MagentaMods using MCreator",
+    "modElementsPackage": "de.magentamods.magentafood"
+  },
+  "mcreatorVersion": 202500345720
+}

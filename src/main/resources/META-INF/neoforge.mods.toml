@@ -1,0 +1,39 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="magentafood"
+version="1.0.1"
+displayName="MagentaFood NeoForge 1.21.1"
+displayURL="https://mods.magentaweb.org"
+credits="Created by MagentaGaming/MagentaMods using MCreator"
+authors="MagentaGaming / MagentaMods"
+description="Test the mod yourself, this desciption doesn't love you!"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+
+# Start of user code block custom mixins
+# End of user code block custom mixins
+
+[[dependencies.magentafood]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.190,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.magentafood]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration
