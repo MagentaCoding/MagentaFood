@@ -20,3 +20,5 @@ Any violation of these license terms, in particular § 2, § 3 and § 5, will re
 1. Transparency for Viewers: Content creators are prohibited from implying that features of this mod are "custom-made" or exclusive to their channel, unless they have written permission from the author. The mod must be presented as a publicly available software.
 1. Monetization: Commercial use in the form of video monetization is permitted ONLY if the attribution requirements in § 5.1 are fully met.
 1. Modpack Integration: Modpacks containing this mod must be public and free of charge. Integration into "Early Access" or "Supporter-only" modpacks (e.g., via Patreon) is strictly prohibited.
+
+[German Version / Deutsche Version](https://github.com/MagentaCoding/MLS/blob/main/DE/MLS-2.md) | [French Version / Version française](https://github.com/MagentaCoding/MLS/blob/main/FR/MLS-2.md) | [Spanish Version / Versión en español](https://github.com/MagentaCoding/MLS/blob/main/ES/MLS-2.md)
