@@ -3,9 +3,6 @@ Tired of wasting chests full of Rotten Flesh? Stop throwing your zombie loot awa
 > [!WARNING]
 > Pull Requests are temporarily deactivated. If you have a feature request, please create an [Issue](https://github.com/MagentaCoding/MagentaFood/issues).
 
-> [!IMPORTANT]
-> A mod update is currently in progress, please read the [changelog](./CHANGELOG.md)
-
 ## MagentaFood Stats
 [![Downloads](https://img.shields.io/curseforge/dt/1488093?color=orange&style=for-the-badge&logo=curseforge)](https://www.curseforge.com/minecraft/mc-mods/magentafood)
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/magentafood?style=for-the-badge&logo=modrinth&color=#242629)](https://modrinth.com/mod/magentafood)
